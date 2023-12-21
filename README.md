@@ -25,3 +25,6 @@ defaults write com.apple.dock static-only -bool false; killall Dock
 
 ## 5. Free Storage: Remove Application caches etc.
 Coming Soon!
+
+## 6. Terminal: Cross platform, themes, built in Electron.
+[Hyper](https://hyper.is)
