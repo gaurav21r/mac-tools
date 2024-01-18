@@ -23,8 +23,17 @@ defaults write com.apple.dock static-only -bool false; killall Dock
 ## 4. Clipboard Manager: Multiple Items, History etc.
 [Pelican](https://apps.apple.com/us/app/pelican-clipboard-manager/id1524721688?mt=12)
 
-## 5. Free Storage: Remove Application caches etc.
-Coming Soon!
+## 5. Free Up Storage: Remove Application caches etc.
+1. Cache Folders
+     1. `~/Library/Caches`
+     2. `/Library/Caches`
+     3. `~/Library/Application Support`
+     4. `/Library/Application Support`
+2. Free Apps
+     1. Disk Inventory X
+     2. Grand Perspective
+3. Paid Apps
+     1. DaisyDisk
 
 ## 6. Terminal: Cross platform, themes, built in Electron.
 [Hyper](https://hyper.is)
